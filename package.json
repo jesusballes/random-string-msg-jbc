@@ -1,0 +1,24 @@
+{
+  "name": "random-string-msg-jbc",
+  "version": "1.0.0",
+  "description": "random-string-msg-jbc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusballes/random-string-msg-jbc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusballes/random-string-msg-jbc/issues"
+  },
+  "homepage": "https://github.com/jesusballes/random-string-msg-jbc#readme",
+  "bin": {
+    "random-string-msg-jbc": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
